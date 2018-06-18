@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rishab</title>
-    <link>http://www.example.com/</link>
+    <link>https://rishab-pdx.github.io/</link>
     <description>Recent content on Rishab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Jun 2018 12:04:37 -0700</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rishab-pdx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Formula-1 Friend</title>
-      <link>http://www.example.com/posts/f1-friend/</link>
+      <link>https://rishab-pdx.github.io/posts/f1-friend/</link>
       <pubDate>Sun, 17 Jun 2018 12:04:37 -0700</pubDate>
       
-      <guid>http://www.example.com/posts/f1-friend/</guid>
+      <guid>https://rishab-pdx.github.io/posts/f1-friend/</guid>
       <description> About Please refer to F1-Friend for description and working.
  Programming Languages: JavaScript,HTML,CSS Frameworks: NodeJS with (Express.js),AngularJS,Material Design,AmCharts Web Frameworks: ergast-api,ergast-client-nodejs  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://rishab-pdx.github.io/about/</link>
       <pubDate>Sat, 16 Jun 2018 19:09:55 -0700</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://rishab-pdx.github.io/about/</guid>
       <description>I am currently pusrsuing my Master&amp;rsquo;s in Computer Science with focus on Machine Learning and Artificial Intelligence at Portland State University. I have previously worked as a Software Engineer and built backend and frontend web software. At present I am learning about current trends in Deep Learning with Computer Vision to solve complex problems. I believe in constant growth through learning, contribution, and collaboration with problem solvers.
 In my free time, I like to travel, listening to uplifting EDM tunes, watching adrenaline rushing sports and reading books on Psychology.</description>
     </item>
