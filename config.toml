@@ -1,0 +1,49 @@
+baseurl = "http://www.example.com"
+title = "Rishab"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Rishab"
+    description = "Rishab's place on web"
+    keywords = "Software Engineer,Machine Learning & Computer Vision"
+    info = "Dreamer & Learner"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+	custom_css = ["css/site.css"]
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/rishab-pdx/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/rishab_ik/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/rishab-pdx/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
