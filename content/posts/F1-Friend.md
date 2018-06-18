@@ -1,7 +1,7 @@
 ---
 title: "Formula-1 Friend"
 date: 2018-06-17T12:04:37-07:00
-draft: true
+draft: false
 ---
 
 ### About
