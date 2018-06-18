@@ -1,0 +1,36 @@
+body {
+  background-color: #eee;
+}
+.navigation a {
+  font-weight: 700;
+}
+p a {
+  text-decoration: none;
+  color: #426bce;
+  font-size: medium;
+}
+a:hover {
+  text-decoration: none;
+}
+p a:hover {
+  text-decoration: none;
+}
+a {
+  font-weight: normal;
+  color: #426bce;
+  font-size: medium;
+  text-decoration: none;
+}
+a {
+  color: #426bce;
+  font-size: medium;
+  text-decoration: none;
+}
+a:hover {
+  background: hsla(330, 100%, 50%, 0.1);
+  color: black;
+}
+p a:hover {
+  background: hsla(330, 100%, 50%, 0.1);
+  color: black;
+}
